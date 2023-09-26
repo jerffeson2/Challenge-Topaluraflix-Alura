@@ -1,0 +1,11 @@
+
+abra o terminal no prajeto
+
+
+para instalar os modules degite o comando a baixo
+
+
+npm install react-scripts --save
+
+
+para que o node_modules seja configurado
